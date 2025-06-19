@@ -3,8 +3,18 @@
 }
 .parrafo{
   color: rgb(58, 9, 9);
+  margin: 0;
+  padding: 0;
+  display: grid;
+  place-items: center;
 }
 h1{
+  margin: 0;
+  padding: 0;
+  display: grid;
+  place-items: center;
+}
+h3{
   margin: 0;
   padding: 0;
   display: grid;
