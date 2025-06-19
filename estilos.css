@@ -1,8 +1,8 @@
 #titulo{
-  color: brown;
+  color: rgb(255, 123, 0);
 }
 .parrafo{
-  color: rgb(58, 9, 9);
+  color: rgb(30, 9, 58);
   margin: 0;
   padding: 0;
   display: flex;
