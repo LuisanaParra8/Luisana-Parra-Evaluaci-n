@@ -5,8 +5,10 @@
   color: rgb(58, 9, 9);
   margin: 0;
   padding: 0;
-  display: grid;
+  display: flex;
   place-items: center;
+  width: 300px;
+  margin-left: 540px;
 }
 h1{
   margin: 0;
